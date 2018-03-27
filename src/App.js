@@ -18,9 +18,9 @@ class App extends Component {
       answerOptions: [],
       answer: '',
       answersCount: {
-        Nintendo: 0,
-        Microsoft: 0,
-        Sony: 0
+        Poor: 0,
+        Great: 0,
+        
       },
       result: ''
     };

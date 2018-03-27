@@ -1,86 +1,86 @@
 var quizQuestions = [
   {
-      question: "What franchise would you rather play a game from?",
+      question: "10-1",
       answers: [
           {
-              type: "Microsoft",
-              content: "Halo"
+              type: "Poor",
+              content: "Receiving Well"
           },
           {
-              type: "Nintendo",
-              content: "Pokemon"
+              type: "Poor",
+              content: "Acknowledged"
           },
           {
-              type: "Sony",
-              content: "Uncharted"
+              type: "Great",
+              content: "Receiving Poorly"
           }
       ]
   },
   {
-      question: "Which console would you prefer to play with friends?",
+      question: "10-2",
       answers: [
           {
-              type: "Microsoft",
-              content: "X-Box"
+              type: "Great",
+              content: "Receiving Well"
           },
           {
-              type: "Nintendo",
-              content: "Nintendo 64"
+              type: "Poor",
+              content: "Emergency Radio Traffic"
           },
           {
-              type: "Sony",
-              content: "Playstation 1"
+              type: "Poor",
+              content: "Return to Station"
           }
       ]
   },
   {
-      question: "Which of these racing franchises would you prefer to play a game from?",
+      question: "10-3",
       answers: [
           {
-              type: "Microsoft",
-              content: "Forza"
+              type: "Poor",
+              content: "Relay To"
           },
           {
-              type: "Nintendo",
-              content: "Mario Kart"
+              type: "Great",
+              content: "Stop Transmitting"
           },
           {
-              type: "Sony",
-              content: "Gran Turismo"
+              type: "Poor",
+              content: "Call Station"
           }
       ]
   },
   {
-      question: "Which of these games do you think is best?",
+      question: "10-4",
       answers: [
           {
-              type: "Microsoft",
-              content: "BioShock"
+              type: "Great",
+              content: "Acknowledged"
           },
           {
-              type: "Nintendo",
-              content: "The Legend of Zelda: Ocarina of Time"
+              type: "Poor",
+              content: "Call Station"
           },
           {
-              type: "Sony",
-              content: "Final Fantasy VII"
+              type: "Poor",
+              content: "Copy Call"
           }
       ]
   },
   {
-      question: "What console would you prefer to own?",
+      question: "10-5",
       answers: [
           {
-              type: "Microsoft",
-              content: "X-Box One"
+              type: "Poor",
+              content: "Emergency Traffic"
           },
           {
-              type: "Nintendo",
-              content: "Wii U"
+              type: "Poor",
+              content: "Pursuit"
           },
           {
-              type: "Sony",
-              content: "Playstation 4"
+              type: "Great",
+              content: "Relay To"
           }
       ]
   }
